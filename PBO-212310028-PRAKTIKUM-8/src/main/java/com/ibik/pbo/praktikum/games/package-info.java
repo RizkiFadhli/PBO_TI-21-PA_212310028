@@ -1,1 +1,0 @@
-package com.ibik.pbo.praktikum.games;
